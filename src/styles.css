@@ -1,0 +1,12 @@
+* {
+  margin: 0rem;
+  padding: 0rem;
+  box-sizing: border-box;
+}
+body {
+  background-color: #111827;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
